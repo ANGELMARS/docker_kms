@@ -1,0 +1,8 @@
+version: '3'
+services:
+  nexus:
+    image: 'angel0mars/docker_kms'
+    restart: always
+    ports:
+      - "1688:1688"
+
