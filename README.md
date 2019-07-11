@@ -10,5 +10,8 @@ https://hub.docker.com/r/angel0mars/docker_kms/
 - slmgr /ato
 - slmgr /xpr
 
+# KMS client setup keys
+https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys
+
 # vlmcsd
 https://github.com/Wind4/vlmcsd
